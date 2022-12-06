@@ -1,7 +1,7 @@
 👋 Hi, I’m @gonzalezeric
 <br>👨🏻‍💻 I work at Eastern Bank as the VP of Business Intelligence Architecture.
 <br>👀 I’m interested in all things data, product, sports, and investing. 
-<br>🌱 I'm graduating in August 2022 with my Masters in Analytics from Georgia Tech with a focus in Computational Data Analytics.
+<br>🌱 M.S. in Analytics from Georgia Tech. B.S. in Neuroscience and Economics from the University of Miami.
 <br>📫 The best way to reach me is via my website (www.gonzalezeric.com) or email (egon611@hotmail.com).
 
 <!---
